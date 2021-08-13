@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/infiniteoo/NODEJS-typescript_setup_w_node_and_express/issues"
   },
-  "homepage": "https://github.com/infiniteoo/NODEJS-typescript_setup_w_node_and_express#readme"
+  "homepage": "https://github.com/infiniteoo/NODEJS-typescript_setup_w_node_and_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.6.1",
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  }
 }
